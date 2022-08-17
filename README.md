@@ -14,13 +14,13 @@ Bọn mình chân thành cảm ơn sự ủng hộ và đóng góp của các b�
 
 ## Dự án thực tế để tham khảo
 
-| Dự án                      | Nội dung                                                                                                                                                                                                                     | Từ khóa                                    | Video (nếu có)           |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------ |
-| [Spotify][spotify]         | Spotify được thiết kế với Nx workspace với một kiến trúc hoàn chỉnh tối ưu hóa Single Component Per Module (SCAM). ngrx và ngrx/component-store để quản lý dữ liệu giữa các component. TailwindCSS và ng-zorro cho phần UI.  | Nx, ngrx, TailwindCSS, ng-zorro            | [Youtube][spotify-video] |
-| [Jira Clone][jira]         | Jira clone có sử dụng Akita state management để quản lý data giữa các thành phần trong ứng dụng. Ngoài ra có dùng thêm TailwindCSS cho styling và ng-zorro để sử dụng các component có sẵn như modal, tooltip                | TailwindCSS, ng-zorro, Akita               | [Youtube][jira-video]    |
-| [Tetris][tetris]           | Tetris là ví dụ về game đơn giản viết bằng Angular có sử dụng Akita làm state management. Trông đơn giản thôi nhưng nếu bạn mở React Devtools lên thì sẽ thấy rất nhiều data được cập nhật với mỗi chuyển động trên màn hình | Akita                                      | [Youtube][tetris-video]  |
-| [Authentication Flow][authen-flow]       | Anh Châu có chia sẻ về Authentication Flow, Permission-based Flow                                                                                                                                                            | Authentication Flow, Permission-based Flow | [Youtube][avo3]          |
-| [MEAN - NestJS][nest-mean] | Anh Châu có chia sẻ về MEAN stack - MongoDB, Express, Angular and NodeJS                                                                                                                                                     | NestJS, MongoDB                            | [Youtube][nest-video]    |
+| Dự án                              | Nội dung                                                                                                                                                                                                                     | Từ khóa                                    | Video (nếu có)           |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------ |
+| [Spotify][spotify]                 | Spotify được thiết kế với Nx workspace với một kiến trúc hoàn chỉnh tối ưu hóa Single Component Per Module (SCAM). ngrx và ngrx/component-store để quản lý dữ liệu giữa các component. TailwindCSS và ng-zorro cho phần UI.  | Nx, ngrx, TailwindCSS, ng-zorro            | [Youtube][spotify-video] |
+| [Jira Clone][jira]                 | Jira clone có sử dụng Akita state management để quản lý data giữa các thành phần trong ứng dụng. Ngoài ra có dùng thêm TailwindCSS cho styling và ng-zorro để sử dụng các component có sẵn như modal, tooltip                | TailwindCSS, ng-zorro, Akita               | [Youtube][jira-video]    |
+| [Tetris][tetris]                   | Tetris là ví dụ về game đơn giản viết bằng Angular có sử dụng Akita làm state management. Trông đơn giản thôi nhưng nếu bạn mở React Devtools lên thì sẽ thấy rất nhiều data được cập nhật với mỗi chuyển động trên màn hình | Akita                                      | [Youtube][tetris-video]  |
+| [Authentication Flow][authen-flow] | Anh Châu có chia sẻ về Authentication Flow, Permission-based Flow                                                                                                                                                            | Authentication Flow, Permission-based Flow | [Youtube][avo3]          |
+| [MEAN - NestJS][nest-mean]         | Anh Châu có chia sẻ về MEAN stack - MongoDB, Express, Angular and NodeJS                                                                                                                                                     | NestJS, MongoDB                            | [Youtube][nest-video]    |
 
 [jira]: https://jira.trungk18.com/
 [jira-video]: https://youtu.be/3dukbsRX0tc
@@ -43,7 +43,7 @@ Bọn mình chân thành cảm ơn sự ủng hộ và đóng góp của các b�
 ## Các bài viết
 
 | Bài viết                                                                                 | Translations     | Video                                                                  |
-|------------------------------------------------------------------------------------------| ---------------- | ---------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------- |
 | [Day 1: Prepare The Working Environment][day1]                                           | [ENG][day1-eng]  | [Youtube][day1-video]                                                  |
 | [Day 2: Explore Angular App][day2]                                                       | [ENG][day2-eng]  | [Youtube][day2-video]                                                  |
 | [Day 3: Angular Data Binding][day3]                                                      | [ENG][day3-eng]  | [Youtube][day3-video]                                                  |
@@ -73,14 +73,14 @@ Bọn mình chân thành cảm ơn sự ủng hộ và đóng góp của các b�
 | [Day 27: Router][day27]                                                                  |                  | [Youtube][day27-28-video]                                              |
 | [Day 28: Angular Router - Feature Modules, Child Routes and Services][day28]             |                  | [part of 27 video][day27-28-video], [part of 29 video][day28-29-video] |
 | [Day 29: Angular Router - Lazy Loading Modules][day29]                                   |                  | [Youtube][day28-29-video]                                              |
-| [Day 30: Angular Router - Guards and Resolvers Part 1][day30]                            |                  |                                                                        |
-| [Day 31: Angular Router - Guards and Resolvers Part 2][day31]                            |                  |                                                                        |
-| [Day 32: Angular Router - Guards and Resolvers Part 3][day32]                            |                  |                                                                        |
-| [Day 33: Template-driven Forms Trong Angular][day33]                                     |                  |                                                                        |
-| [Day 34: Template-driven Forms Trong Angular Part 2][day34]                              |                  |                                                                        |
-| [Day 35: Reactive Forms Trong Angular][day35]                                            |                  |                                                                        |
-| [Day 36: Reactive Forms Trong Angular Part 2][day36]                                     |                  |                                                                        |
-| [Day 37: Angular Form Async Validator][day37]                                            |                  |                                                                        |
+| [Day 30: Angular Router - Guards and Resolvers Part 1][day30]                            |                  | [Youtube][day30-video]                                                 |
+| [Day 31: Angular Router - Guards and Resolvers Part 2][day31]                            |                  | [Youtube][day31-video]                                                 |
+| [Day 32: Angular Router - Guards and Resolvers Part 3][day32]                            |                  | [Youtube][day32-video]                                                 |
+| [Day 33: Template-driven Forms Trong Angular][day33]                                     |                  | [Youtube][day33-video]                                                 |
+| [Day 34: Template-driven Forms Trong Angular Part 2][day34]                              |                  | [Youtube][day34-video]                                                 |
+| [Day 35: Reactive Forms Trong Angular][day35]                                            |                  | [Youtube][day35-video]                                                 |
+| [Day 36: Reactive Forms Trong Angular Part 2][day36]                                     |                  | [Youtube][day36-video]                                                 |
+| [Day 37: Angular Form Async Validator][day37]                                            |                  | [Youtube][day37-video]                                                 |
 | [Day 38: Dynamic Component][day38]                                                       |                  |                                                                        |
 | [Day 39: Thực Hành Micro Frontends][day39]                                               |                  |                                                                        |
 | [Day 40: Jira Clone 01 - Lên kế hoạch và cài cắm dự án Angular][day40]                   | [ENG][day40-eng] |                                                                        |
@@ -93,10 +93,9 @@ Bọn mình chân thành cảm ơn sự ủng hộ và đóng góp của các b�
 | [Day 47: Composition form datasource with Directive][day47]                              |                  |                                                                        |
 | [Day 48: Using dependency injection to get data from ActivatedRoute][day48]              |                  |                                                                        |
 
-
 ## Youtube Playlist
 
-https://www.youtube.com/playlist?list=PLVmX3uPQtp3vXOXUOl8gDIA_43_pmIdFN
+https://www.youtube.com/playlist?list=PLMTyi4Bfd5pW73uXw-6jgRxDwdPYqwk0r
 
 ## Tác giả
 
@@ -190,6 +189,14 @@ https://www.youtube.com/playlist?list=PLVmX3uPQtp3vXOXUOl8gDIA_43_pmIdFN
 [day26-video]: https://youtu.be/8nWosjgcI5k
 [day27-28-video]: https://youtu.be/mw4a9S5k8yU
 [day28-29-video]: https://youtu.be/D0Tv5BaNTa8
+[day30-video]: https://youtu.be/STzxk1vOGqw
+[day31-video]: https://youtu.be/VsUjev5-pTU
+[day32-video]: https://youtu.be/YAAv4f85s7A
+[day33-video]: https://youtu.be/0kbEVtO79Xw
+[day34-video]: https://youtu.be/45VnmzfV_MI
+[day35-video]: https://youtu.be/oTwukyGa_qY
+[day36-video]: https://youtu.be/ozHU4MmRS1w
+[day37-video]: https://youtu.be/-ib5p8KbapQ
 [tieppt]: https://github.com/tieppt
 [nartc]: https://github.com/nartc
 [trungk18]: https://github.com/trungk18
